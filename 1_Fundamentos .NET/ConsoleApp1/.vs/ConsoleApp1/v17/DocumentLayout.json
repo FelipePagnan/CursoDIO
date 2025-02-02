@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Estudos\\DIO\\Forma\u00E7\u00E3o .NET Developer\\1_Fundamentos .NET\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E4D8FAF-E2AA-4BF5-A072-3CD3AC4F1586}|ConsoleApp1\\ConsoleApp1.csproj|d:\\estudos\\dio\\forma\u00E7\u00E3o .net developer\\1_fundamentos .net\\consoleapp1\\consoleapp1\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E4D8FAF-E2AA-4BF5-A072-3CD3AC4F1586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E4D8FAF-E2AA-4BF5-A072-3CD3AC4F1586}|ConsoleApp1\\ConsoleApp1.csproj|d:\\estudos\\dio\\forma\u00E7\u00E3o .net developer\\1_fundamentos .net\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E4D8FAF-E2AA-4BF5-A072-3CD3AC4F1586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4D8FAF-E2AA-4BF5-A072-3CD3AC4F1586}|ConsoleApp1\\ConsoleApp1.csproj|d:\\estudos\\dio\\forma\u00E7\u00E3o .net developer\\1_fundamentos .net\\consoleapp1\\consoleapp1\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4D8FAF-E2AA-4BF5-A072-3CD3AC4F1586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "D:\\Estudos\\DIO\\Forma\u00E7\u00E3o .NET Developer\\1_Fundamentos .NET\\ConsoleApp1\\ConsoleApp1\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Pessoa.cs",
               "ToolTip": "D:\\Estudos\\DIO\\Forma\u00E7\u00E3o .NET Developer\\1_Fundamentos .NET\\ConsoleApp1\\ConsoleApp1\\Models\\Pessoa.cs",
               "RelativeToolTip": "ConsoleApp1\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T22:44:58.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudos\\DIO\\Forma\u00E7\u00E3o .NET Developer\\1_Fundamentos .NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Estudos\\DIO\\Forma\u00E7\u00E3o .NET Developer\\1_Fundamentos .NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T19:09:02.89Z",
               "EditorCaption": ""

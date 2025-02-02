@@ -2,3 +2,14 @@ D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleA
 D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
 D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
 D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Estudos\DIO\Formação .NET Developer\1_Fundamentos .NET\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
